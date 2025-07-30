@@ -1,1 +1,1 @@
-# Predicting-Credit-Card-Approval-using-Machine-Learning
+# Predicting_Credit_Card_Approval
